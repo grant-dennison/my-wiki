@@ -13,3 +13,6 @@ I then open VS Code to the parent directory of that.
 
 On mobile, I'm trying Spck Editor,
 but the GitHub app also might work well enough for edits of existing files.
+
+At some point, I may try to get an actual website generated from this stuff,
+but source itself will have to do for now.
