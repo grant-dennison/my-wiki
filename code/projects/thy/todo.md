@@ -2,9 +2,17 @@
 
 Here's a list of some of the items I'd like to complete with Thy:
 
-* Fix Firefox playground UI
-  * Firefox exemplar trace parity with Chrome
-  * Weird formatting (`at <anonymous>undefined<inline thy code>:9:3`) of stack frame in Chrome
-  * Firefox doesn't show error message (not in `.stack`)
+* Find better way to deal with CSS/HTML
+* Collapse playground into main site (probably just /play)
+* .thy/.txt toggle in playground
+* Transition code-input to use React references (rather than a bunch of internal state)
 * Create basic Node.js runtime (CLI) for Thy source, powered by interpreter
+* `thy()` dependency resolution in playground
+* Implement remaining standard library for interpreter
+* Publish JSDocs of standard library
+  * Seems like https://typedoc.org is probably the most standard tool here aside from JSDoc itself?
+  * TS guru Gerrit0 seems to be involved: https://github.com/Gerrit0/typedoc-custom-theme-demo
+* Publish Thy VS Code extension
 * Go back to transpiler (maybe rewrite in Thy, fresh with tests?)
+* Input in playground?
+* Line numbers in snippets on site? (this doesn't seem possible without either more complex HTML or JS)
