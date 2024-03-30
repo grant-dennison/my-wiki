@@ -2,8 +2,9 @@
 
 Here's a list of some of the items I'd like to complete with Thy:
 
+* Overhaul playground sharing
+* Isn't there a bug with source mapping?
 * Find better way to deal with CSS/HTML
-* Collapse playground into main site (probably just /play)
 * .thy/.txt toggle in playground
 * Transition code-input to use React references (rather than a bunch of internal state)
 * Create basic Node.js runtime (CLI) for Thy source, powered by interpreter

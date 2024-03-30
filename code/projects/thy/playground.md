@@ -56,6 +56,10 @@ where the non-module mode is shareable.
 Or I could allow module-mode code to be exported to some non-module-mode code
 that could be more easily shared.
 
+New idea: Use pushState/popState state to keep tab permanence.
+Add share button to put in URL.
+Remove from URL (and put in invisible state) on load.
+
 ## User Input
 
 With Thy having a significant design focus on newbie-friendliness,
