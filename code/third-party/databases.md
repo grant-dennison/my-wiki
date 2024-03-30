@@ -23,3 +23,11 @@ This seems like a pretty new addition to the MariaDB space that maybe just gives
 ## ScyllaDB
 
 Cassandra, but better.
+
+## Isar
+
+Flutter DB. When I was working on the prayer app, the best DB I could find for
+cross-platform (PWA + native app) was Hive.
+Isar aimed to be a more powerful follow-on to Hive but was not production-ready at the time.
+
+https://github.com/isar/isar

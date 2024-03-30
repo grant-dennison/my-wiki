@@ -30,6 +30,12 @@ Seems like easiest options would be
 Not sure either of these would be sufficient for building to consoles,
 but I'm not sure that's realistically an important goal for near term.
 
+It's also possible I could do something lower level like a deno application
+integrated with something like https://github.com/deno-windowing/dwm
+
+Going even lower-level, I would probably get into using some JS engine
+that I run from within some hand-written C++ (or the like) application.
+
 ## Alternative Engines
 
 Wiki with links to a number of niche JS projects: https://github.com/linusg/ecmascript-wiki
