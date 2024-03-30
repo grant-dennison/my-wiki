@@ -15,3 +15,7 @@ type X<T extends 1 | 2> = T extends 1 ? Y<T> : Z<T>
 type Y<T extends 1> = T
 type Z<T extends 2> = T
 ```
+
+## Variance
+
+[Methods are bivariant](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-6.html#strict-function-types), which introduces some type unsoundness.
