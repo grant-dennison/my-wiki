@@ -2,6 +2,9 @@
 
 Here's a list of some of the items I'd like to complete with Thy:
 
+* Fix open/close nav bar on mobile
+* Add table of contents with remark/rehype plugins remark-toc, rehype-slug, and rehype-autolink-headings
 * Transform interpreter stack trace to reflect Thy source instead of interpreter internals
 * Create basic Node.js runtime (CLI) for Thy source, powered by interpreter
 * Go back to transpiler (maybe rewrite in Thy, fresh with tests?)
+* Switch to refractor/react-refractor for faster (hopefully?) highlighting
